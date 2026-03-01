@@ -1,0 +1,122 @@
+[
+    {
+        "model": "courses.courses",
+        "pk": 1,
+        "fields": {
+            "name": "CSC 648",
+            "professor": [1]
+        }
+    },
+    {
+        "model": "courses.courses",
+        "pk": 2,
+        "fields": {
+            "name": "CSC 340",
+            "professor": [2]
+        }
+    },
+    {
+        "model": "courses.courses",
+        "pk": 3,
+        "fields": {
+            "name": "CSC 415",
+            "professor": [3]
+        }
+    },
+        {
+        "model": "courses.courses",
+        "pk": 4,
+        "fields": {
+            "name": "MATH 324",
+            "professor": [4]
+        }
+    },
+    {
+        "model": "courses.courses",
+        "pk": 5,
+        "fields": {
+            "name": "MATH 226",
+            "professor": [5]
+        }
+    },
+    {
+        "model": "courses.courses",
+        "pk": 6,
+        "fields": {
+            "name": "MATH 325",
+            "professor": [6]
+        }
+    },
+        {
+        "model": "courses.courses",
+        "pk": 7,
+        "fields": {
+            "name": "PHYS 360",
+            "professor": [7]
+        }
+    },
+    {
+        "model": "courses.courses",
+        "pk": 8,
+        "fields": {
+            "name": "PHYS 370",
+            "professor": [8]
+        }
+    },
+    {
+        "model": "courses.courses",
+        "pk": 9,
+        "fields": {
+            "name": "PHYS 440",
+            "professor": [7,9]
+        }
+    },
+    {
+        "model": "courses.courses",
+        "pk": 10,
+        "fields": {
+            "name": "ECON 101",
+            "professor": [7,9]
+        }
+    },
+    {
+        "model": "courses.courses",
+        "pk": 11,
+        "fields": {
+            "name": "ECON 102",
+            "professor": [7,9]
+        }
+    },
+    {
+        "model": "courses.courses",
+        "pk": 12,
+        "fields": {
+            "name": "ECON 103",
+            "professor": [7,9]
+        }
+    },
+    {
+        "model": "courses.courses",
+        "pk": 13,
+        "fields": {
+            "name": "LAW 101",
+            "professor": [7,9]
+        }
+    },
+    {
+        "model": "courses.courses",
+        "pk": 14,
+        "fields": {
+            "name": "LAW 140",
+            "professor": [7,9]
+        }
+    },
+    {
+        "model": "courses.courses",
+        "pk": 15,
+        "fields": {
+            "name": "LAW 230",
+            "professor": [7,9]
+        }
+    }
+]

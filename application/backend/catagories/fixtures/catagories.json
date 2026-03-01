@@ -1,0 +1,42 @@
+[
+    {
+        "model": "catagories.catagories",
+        "pk": 1,
+        "fields": {
+            "name": "Computer Science",
+            "courses": 1
+        }
+    },
+    {
+        "model": "catagories.catagories",
+        "pk": 2,
+        "fields": {
+            "name": "Mathematics",
+            "courses": 2
+        }
+    },
+    {
+        "model": "catagories.catagories",
+        "pk": 3,
+        "fields": {
+            "name": "Physics",
+            "courses": 3
+        }
+    },
+    {
+        "model": "catagories.catagories",
+        "pk": 4,
+        "fields": {
+            "name": "Economics",
+            "courses": 3
+        }
+    },
+    {
+        "model": "catagories.catagories",
+        "pk": 5,
+        "fields": {
+            "name": "Law",
+            "courses": 3
+        }
+    }
+]

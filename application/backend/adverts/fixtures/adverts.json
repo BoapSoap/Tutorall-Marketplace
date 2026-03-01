@@ -1,0 +1,256 @@
+[
+    {
+        "model": "adverts.adverts",
+        "pk": 1,
+        "fields": {
+            "users": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [1],
+            "catagories": [1],
+            "location": "San Francisco, CA",
+            "price_range": "25.00",
+            "files": [1],
+            "verified": true
+        }
+    },
+    {
+        "model": "adverts.adverts",
+        "pk": 2,
+        "fields": {
+            "users": 2,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [2],
+            "catagories": [1],
+            "location": "Remote",
+            "price_range": "100.00",
+            "files": [2],
+            "verified": true
+        }
+    },
+    {
+        "model": "adverts.adverts",
+        "pk": 3,
+        "fields": {
+            "users": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [3],
+            "catagories": [1],
+            "location": "Remote",
+            "price_range": "45.00",
+            "files": [3],
+            "verified": false
+        }
+    },
+    {
+        "model": "adverts.adverts",
+        "pk": 4,
+        "fields": {
+            "users": 4,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [4],
+            "catagories": [2],
+            "location": "San Francisco, CA",
+            "price_range": "50.00",
+            "files": [3],
+            "verified": true
+        }
+    },
+    {
+        "model": "adverts.adverts",
+        "pk": 5,
+        "fields": {
+            "users": 5,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [5],
+            "catagories": [2],
+            "location": "San Francisco, CA",
+            "price_range": "25.00",
+            "files": [3],
+            "verified": true
+        }
+    },
+    {
+        "model": "adverts.adverts",
+        "pk": 6,
+        "fields": {
+            "users": 6,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [6],
+            "catagories": [2],
+            "location": "Remote",
+            "price_range": "75.00",
+            "files": [3],
+            "verified": false
+        }
+    },
+    {
+        "model": "adverts.adverts",
+        "pk": 7,
+        "fields": {
+            "users": 7,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [7],
+            "catagories": [3],
+            "location": "Remote",
+            "price_range": "55.00",
+            "files": [3],
+            "verified": true
+        }
+    },
+    {
+        "model": "adverts.adverts",
+        "pk": 8,
+        "fields": {
+            "users": 8,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [8],
+            "catagories": [3],
+            "location": "San Francisco, CA",
+            "price_range": "29.00",
+            "files": [3],
+            "verified": true
+        }
+    },
+    {
+        "model": "adverts.adverts",
+        "pk": 9,
+        "fields": {
+            "users": 9,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [9],
+            "catagories": [3],
+            "location": "San Francisco, CA",
+            "price_range": "34.00",
+            "files": [3],
+            "verified": false
+        }
+    },
+    {
+        "model": "adverts.adverts",
+        "pk": 10,
+        "fields": {
+            "users": 10,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [10],
+            "catagories": [4],
+            "location": "San Francisco, CA",
+            "price_range": "29.00",
+            "files": [3],
+            "verified": true
+        }
+    },
+    {
+        "model": "adverts.adverts",
+        "pk": 11,
+        "fields": {
+            "users": 11,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [11],
+            "catagories": [4],
+            "location": "San Francisco, CA",
+            "price_range": "29.00",
+            "files": [3],
+            "verified": true
+        }
+    },
+        {
+        "model": "adverts.adverts",
+        "pk": 12,
+        "fields": {
+            "users": 12,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [12],
+            "catagories": [4],
+            "location": "San Francisco, CA",
+            "price_range": "29.00",
+            "files": [3],
+            "verified": true
+        }
+    },
+        {
+        "model": "adverts.adverts",
+        "pk": 13,
+        "fields": {
+            "users": 13,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [13],
+            "catagories": [5],
+            "location": "San Francisco, CA",
+            "price_range": "29.00",
+            "files": [3],
+            "verified": true
+        }
+    },
+        {
+        "model": "adverts.adverts",
+        "pk": 14,
+        "fields": {
+            "users": 14,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [14],
+            "catagories": [5],
+            "location": "San Francisco, CA",
+            "price_range": "29.00",
+            "files": [3],
+            "verified": true
+        }
+    },
+        {
+        "model": "adverts.adverts",
+        "pk": 15,
+        "fields": {
+            "users": 15,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [15],
+            "catagories": [5],
+            "location": "San Francisco, CA",
+            "price_range": "29.00",
+            "files": [3],
+            "verified": true
+        }
+    },
+        {
+        "model": "adverts.adverts",
+        "pk": 16,
+        "fields": {
+            "users": 16,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [15],
+            "catagories": [5],
+            "location": "San Francisco, CA",
+            "price_range": "29.00",
+            "files": [3],
+            "verified": true
+        }
+    },
+        {
+        "model": "adverts.adverts",
+        "pk": 17,
+        "fields": {
+            "users": 17,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. jamie lee.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [15],
+            "catagories": [5],
+            "location": "San Francisco, CA",
+            "price_range": "29.00",
+            "files": [3],
+            "verified": true
+        }
+    },
+        {
+        "model": "adverts.adverts",
+        "pk": 18,
+        "fields": {
+            "users": 18,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,. Jamie Lee.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "courses": [15],
+            "catagories": [5],
+            "location": "San Francisco, CA",
+            "price_range": "29.00",
+            "files": [3],
+            "verified": true
+        }
+    }
+
+
+]

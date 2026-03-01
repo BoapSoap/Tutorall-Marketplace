@@ -1,0 +1,14 @@
+[
+  {
+    "model": "users_messages.usersmessages",
+    "pk" : 1,
+    "fields" : {
+      "contents" : "Test contents",
+      "timestamp": "2025-11-01T10:00:00Z",
+      "read" : false,
+      "sender" : 1,
+      "receiver" : 2,
+      "advert" : 1
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "model": "contributors.contributors",
+    "pk": 1,
+    "fields": {
+      "name": "Matthew Davis ",
+      "role": "Team Lead",
+      "image": "contributors/images/user-2517433_1280.jpg",
+      "bio": "A young and scrappy developer who learned a lot from his father about all things electronics. Now a team lead for a group of intelligent and passionent young developers while looking to earn his Master's.",
+      "links": [
+        {"Github": "https://github.com/EricTomCape"},
+        {"LinkedIn": "https://www.linkedin.com/in/matthew-davis-00a129212/"}
+      ]
+    }
+  },
+  {
+    "model": "contributors.contributors",
+    "pk": 2,
+    "fields": {
+      "name": "Tan Huynh",
+      "role": "Backend Lead",
+      "image": "contributors/images/user-2517433_1280.jpg",
+      "bio": "Hello, I am the backend team lead.I am currently a senior in university.",
+      "links": [
+        {"Github": "https://github.com/thuynh-9084"}
+      ]
+    }
+  },
+  {
+    "model": "contributors.contributors",
+    "pk": 3,
+    "fields": {
+      "name": "Anmol Tadikonda",
+      "role": "Git Master",
+      "image": "contributors/images/user-2517433_1280.jpg",
+      "bio": "Hi, I’m Anmol! I’m a computer science student at San Francisco State University who’s always building and experimenting with new ideas. I enjoy working on projects that combine creativity with problem-solving, whether that’s designing algorithms, coding up tools, or just trying out something new to learn. Lately I’ve been working on a small autonomous car project with a 3D-printed chassis kind of like a mini self-driving car I’m building from the ground up using tensorflow on a raspberry pi. Outside of school, you’ll usually find me lifting, training Jiu Jitsu, or messing around with side projects that keep me curious. This project is one of those a mix of what I’m learning in class and what I’m interested in exploring on my own.",
+      "links": [
+        {"Github": "https://github.com/BoapSoap"},
+        {"LinkedIn": "https://www.linkedin.com/in/anmoltadikonda/"}
+      ]
+    }
+  },
+  {
+    "model": "contributors.contributors",
+    "pk": 4,
+    "fields": {
+      "name": "Justine Tenorio",
+      "role": "AWS Manager",
+      "image": "contributors/images/user-2517433_1280.jpg",
+      "bio": "Senior Comp Sci Student @ SFSU with a strong background in C/C++, Lua, Java, Python and Linux. I enjoy working on hands-on projects with Raspberry Pi, Arduino, and 3D printing. Passionate low-level programming and embedded Linux systems, I'm always looking for more opportunities to expand my skillset and knowledge in order to be a more effective developer.",
+      "links": [
+        {"Github": "https://github.com/tatinCode"},
+        {"LinkedIn": "https://www.linkedin.com/in/jtenorio22/"}
+      ]
+    }
+  },
+  {
+    "model": "contributors.contributors",
+    "pk": 5,
+    "fields": {
+      "name": "Zainab Abbasi",
+      "role": "Frontend Lead",
+      "image": "contributors/images/user-2517433_1280.jpg",
+      "bio": "Full-stack developer. Frontend lead of the project. Versatile in Computer Science. Pursuing AI.",
+      "links": [
+        {"Github": "https://github.com/Z-ABBASI"},
+        {"LinkedIn": "http://www.linkedin.com/in/zabbasi"}
+      ]
+    }
+  }
+]

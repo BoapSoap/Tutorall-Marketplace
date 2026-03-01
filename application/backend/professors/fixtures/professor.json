@@ -1,0 +1,65 @@
+[
+    {
+        "model": "professors.professor",
+        "pk": 1,
+        "fields": {
+            "name": "Dragutin Petkovic"
+        }
+    },
+    {
+        "model": "professors.professor",
+        "pk": 2,
+        "fields": {
+            "name": "Christopher Lucero"
+        }
+    },
+    {
+        "model": "professors.professor",
+        "pk": 3,
+        "fields": {
+            "name": "Carol Lee"
+        }
+    },
+    {
+        "model": "professors.professor",
+        "pk": 4,
+        "fields": {
+            "name": "Carla Fauver"
+        }
+    },
+    {
+        "model": "professors.professor",
+        "pk": 5,
+        "fields": {
+            "name": "Jackie McMillen"
+        }
+    },
+    {
+        "model": "professors.professor",
+        "pk": 6,
+        "fields": {
+            "name": "Louis Johnson"
+        }
+    },
+    {
+        "model": "professors.professor",
+        "pk": 7,
+        "fields": {
+            "name": "Timothy Smith"
+        }
+    },
+    {
+        "model": "professors.professor",
+        "pk": 8,
+        "fields": {
+            "name": "John Fortsmith"
+        }
+    },
+    {
+        "model": "professors.professor",
+        "pk": 9,
+        "fields": {
+            "name": "Jamie Lee"
+        }
+    }
+]

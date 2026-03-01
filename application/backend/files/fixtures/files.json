@@ -1,0 +1,32 @@
+[
+    {
+        "model": "files.files",
+        "pk": 1,
+        "fields": {
+            "name": "Syllabus - Intro to CS",
+            "file_type": "files/test_image.png",
+            "uploader": 1,
+            "upload_date": "2025-11-01T10:00:00Z"
+        }
+    },
+    {
+        "model": "files.files",
+        "pk": 2,
+        "fields": {
+            "name": "Lecture Notes 1",
+            "file_type": "files/test_image.png",
+            "uploader": 2,
+            "upload_date": "2025-11-02T12:30:00Z"
+        }
+    },
+    {
+        "model": "files.files",
+        "pk": 3,
+        "fields": {
+            "name": "Profile Image",
+            "file_type": "files/test_image.png",
+            "uploader": 1,
+            "upload_date": "2025-11-03T09:15:00Z"
+        }
+    }
+]

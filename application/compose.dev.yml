@@ -1,0 +1,50 @@
+services:
+    mysql-db-local:
+        image: mysql:8.0.43
+        environment:
+            MYSQL_ROOT_PASSWORD: ${ROOT_PASSWORD_LOCAL}
+            MYSQL_DATABASE: ${DATABASE_NAME_LOCAL}
+            MYSQL_USER: ${DATABASE_USERNAME_LOCAL}
+            MYSQL_PASSWORD: ${DATABASE_PASSWORD_LOCAL}
+        ports:
+            - "3307"
+        volumes:
+            - mysql-data-local:/var/lib/mysql
+        env_file:
+            - .env
+    django-web-backend-local:
+        build: ./backend
+        container_name: django-backend-local
+        ports:
+        - "8080:8080"
+        depends_on:
+        - mysql-db-local
+        environment:
+            DJANGO_SECRET_KEY: ${DJANGO_SECRET_KEY_LOCAL}
+            DEBUG: ${DEBUG_LOCAL}
+            DJANGO_LOGLEVEL: ${DJANGO_LOGLEVEL_LOCAL}
+            DJANGO_ALLOWED_HOSTS: ${DJANGO_ALLOWED_HOSTS_LOCAL}
+            DATABASE_NAME: ${DATABASE_NAME_LOCAL}
+            DATABASE_USERNAME: ${DATABASE_USERNAME_LOCAL}
+            DATABASE_PASSWORD: ${DATABASE_PASSWORD_LOCAL}
+            DATABASE_HOST: ${DATABASE_HOST_LOCAL}
+            DATABASE_PORT: ${DATABASE_PORT_LOCAL}
+        env_file:
+            - .env
+        volumes:
+            - ./backend:/app
+    react-local:
+        build: ./frontend/tutorall
+        container_name: react-frontend-local
+        ports:
+            - "80:80"
+        volumes:
+            - .:/app
+            - ./node_modules:/app/node_modules
+        environment:
+            NODE_ENV: development
+        stdin_open: true
+        tty: true
+volumes:
+    mysql-data-local:
+    

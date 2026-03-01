@@ -1,0 +1,218 @@
+[
+    {
+        "model": "users.users",
+        "pk": 1,
+        "fields": {
+            "account": 1,
+            "bio": "Graduate student in Computer science",
+            "education": "M.S. Computer Science",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links":  {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 2,
+        "fields": {
+            "account": 2,
+            "bio": "Undergraduate student offering tutoring in data structures and discrete math.",
+            "education": "B.S. Computer Science",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links":  {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 3,
+        "fields": {
+            "account": 3,
+            "bio": "Experienced instructor focusing on Computer science",
+            "education": "Ph.D. Computer Science",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 4,
+        "fields": {
+            "account": 4,
+            "bio": "Experienced instructor focusing on Mathematics",
+            "education": "Ph.D. Mathematics",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 5,
+        "fields": {
+            "account": 5,
+            "bio": "Masters in Mathematics",
+            "education": "MS. Mathematics",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 6,
+        "fields": {
+            "account": 6,
+            "bio": "Mathematics researcher",
+            "education": "Ph.D. Mathematics",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 7,
+        "fields": {
+            "account": 7,
+            "bio": "Specialized in Physics",
+            "education": "Ph.D. Computational Physics",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 8,
+        "fields": {
+            "account": 8,
+            "bio": "Completed thesis in Physics",
+            "education": "Ph.D. Physics",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 9,
+        "fields": {
+            "account": 9,
+            "bio": "Final year in university",
+            "education": "B.S. Physics",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 10,
+        "fields": {
+            "account": 10,
+            "bio": "Second year in university",
+            "education": "B.S. Economics",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 11,
+        "fields": {
+            "account": 11,
+            "bio": "Final year in university",
+            "education": "M.S. Economics",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 12,
+        "fields": {
+            "account": 12,
+            "bio": "Final year in university",
+            "education": "M.S. Economics",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 13,
+        "fields": {
+            "account": 13,
+            "bio": "Final year in university",
+            "education": "B.S. Law",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 14,
+        "fields": {
+            "account": 14,
+            "bio": "Final year in university",
+            "education": "M.S. Law",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 15,
+        "fields": {
+            "account": 15,
+            "bio": "Final year in university",
+            "education": "B.S. Law",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 16,
+        "fields": {
+            "account": 16,
+            "bio": "Final year in university",
+            "education": "M.S. Law",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 17,
+        "fields": {
+            "account": 17,
+            "bio": "Final year in university",
+            "education": "M.S. Law",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    },
+    {
+        "model": "users.users",
+        "pk": 18,
+        "fields": {
+            "account": 18,
+            "bio": "Final year in university",
+            "education": "M.S. Law",
+            "location": "San Francisco, CA",
+            "profile_picture": "contributors/images/user-2517433_1280.jpg",
+            "links": {"linkedin":"https://linkedin.com"}
+        }
+    }
+]
